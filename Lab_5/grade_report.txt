@@ -1,0 +1,28 @@
+Student Grade Analyzer
+----------------------
+Total students: 10
+Average score: 74.60
+Highest score: 95
+Lowest score: 49
+Passing students: 8
+Failing students: 2
+
+Grade Distribution:
+A: 2
+B: 2
+C: 2
+D: 2
+F: 2
+
+Individual Student Grades:
+----------------------------------------
+Alice (ID: 2024001): Score=86, Grade=B
+Bob (ID: 2024002): Score=72, Grade=C
+Cindy (ID: 2024003): Score=95, Grade=A
+David (ID: 2024004): Score=58, Grade=F
+Eric (ID: 2024005): Score=66, Grade=D
+Fiona (ID: 2024006): Score=89, Grade=B
+Grace (ID: 2024007): Score=77, Grade=C
+Henry (ID: 2024008): Score=49, Grade=F
+Ivy (ID: 2024009): Score=91, Grade=A
+Jack (ID: 2024010): Score=63, Grade=D
